@@ -2,7 +2,7 @@
 
 ## Here you will be able to see all of my own work. The following links will redirect you to all my different types of work: 
 
-* [SWC: Digital Photgraphy](https://github.com/pbalvaneda03/Surprise/blob/main/SWCDigitalPhotography.md)
+* [SWC: Digital Photgraphy](https://github.com/pbalvaneda03/Surprise/blob/main/SWCDigitalPhotography.html)
 
 
 ---
