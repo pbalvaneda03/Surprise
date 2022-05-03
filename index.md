@@ -1,4 +1,4 @@
-# Main Page
+# By Paola Balvaneda
 
 ## Here you will be able to see all of my own work. The following links will redirect you to all my different types of work: 
 
